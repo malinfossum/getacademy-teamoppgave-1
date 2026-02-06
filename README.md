@@ -1,29 +1,29 @@
-# Teamoppgave 1 – Inventory Filler
+# Team Assignment 1 – Inventory Filler
 
-Dette prosjektet er en teamoppgave fra GET Academy (Start IT).
+This project is a team assignment from GET Academy (Start IT).
 
-Oppgaven går ut på å lage en enkel *inventory*-løsning, tilsvarende et inventory i et spill, ved hjelp av HTML, CSS og JavaScript.
+The task was to create a simple **inventory solution**, similar to an inventory system in a game, using HTML, CSS, and JavaScript.
 
-🔗 **Live demo:**  
+## Live demo
 https://malinfossum.github.io/getacademy-teamoppgave-1/
 
-## Beskrivelse
-Brukeren kan klikke på ulike elementer for å legge dem i et inventory.  
-Inventory lagres i en variabel og kan vises eller skjules i grensesnittet.
+## Description
+The user can click on different elements to add them to an inventory.  
+The inventory is stored in a variable and can be shown or hidden in the interface.
 
-Prosjektet er implementert i én fil (`index.html`) for å fokusere på grunnleggende forståelse av struktur og JavaScript-logikk.
+The project is implemented in a single file (`index.html`) to focus on building a fundamental understanding of structure and JavaScript logic.
 
-## Funksjonalitet
-- Klikkbare elementer som legges i inventory
-- Inventory lagres i en variabel (array)
-- Funksjon med parameter og return
-- Vis/skjul inventory
-- Enkel visning av innholdet i inventory
+## Functionality
+- Clickable elements that are added to the inventory
+- Inventory stored in a variable (array)
+- Functions using parameters and return values
+- Show/hide inventory
+- Simple display of inventory contents
 
-## Teknologi
+## Technology
 - HTML
 - CSS
 - JavaScript
 
 ## Team
-Prosjektet er laget som en teamoppgave der alle har bidratt til planlegging, utvikling og forståelse av løsningen.
+This project was created as a team assignment where all members contributed to planning, development, and understanding of the solution.
