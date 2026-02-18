@@ -1,40 +1,32 @@
 # Team Assignment 1 – Inventory Filler
 
-This project is a team assignment from Get Academy (Start IT).
-
-The task was to create a simple **inventory solution**, similar to an inventory system in a game, using HTML, CSS, and JavaScript.
+A team assignment from Get Academy (Start IT) where we built a simple inventory system inspired by game inventory mechanics.
 
 ---
 
-## Live demo
+## Usage
+
+### Live Demo
 https://malinfossum.github.io/getacademy-teamoppgave-1/
 
----
+### Run Locally
 
-## Description
-The user can click on different elements to add them to an inventory.  
-The inventory is stored in a variable and can be shown or hidden in the interface.
-
-Implemented in a single file (index.html) to focus on core structure and JavaScript fundamentals.
+Open `index.html` directly in your browser  
+or use **Live Server** in VS Code.
 
 ---
 
 ## Features
-- Clickable elements that are added to the inventory
-- Inventory stored in a variable (array)
-- Functions using parameters and return values
-- Show/hide inventory
-- Simple display of inventory contents
+
+- Clickable items added to an inventory
+- Inventory stored in an array
+- Show/hide inventory functionality
+- Dynamic rendering of inventory contents
 
 ---
 
-## Technology
-- HTML
-- CSS
-- JavaScript
+## Documentation
 
----
+This project simulates a basic inventory system where user interaction updates application state stored in an array.
 
-## How to Run
-Open `index.html` directly in your browser  
-or use **Live Server** in VS Code.
+It was built to practice JavaScript fundamentals such as arrays, functions with parameters, return values, and simple state-driven UI updates in a team setting.
